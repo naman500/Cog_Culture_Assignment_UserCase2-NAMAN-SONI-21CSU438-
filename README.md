@@ -2,7 +2,87 @@
 
 **By Naman Soni**
 
-# Google_Drive Link : https://drive.google.com/drive/folders/1ytjsAox5tX1_gHPpv5Jq52y6PL_r1heT?usp=drive_link
+# Google_Drive Link : **https://drive.google.com/drive/folders/1ytjsAox5tX1_gHPpv5Jq52y6PL_r1heT?usp=drive_link**
+
+## Problem Statement : **USE CASE 2: Predictive Model + Actionable Agent for Project Risk
+
+Scenario: You build a predictive model for project delays or employee churn, and wrap it with a recommendation agent that advises HR/PMs on what to do next.
+
+Tasks:
+
+Train ML model using real-world dataset (Kaggle/HuggingFace)
+
+Predict: Who is at risk?
+
+Wrap in agent logic that:
+
+Interprets result
+
+Recommends action (e.g., assign mentor, reduce workload)
+
+Notifies user (Slack/email logic)
+
+Deliverables:
+
+Python Notebook + Dashboard mockup
+
+Output recommendations
+
+Short explainer on agent flow
+
+Bonus: Decision tree or LLM-based reasoner
+
+Agentic Element: Predict Interpret Recommend Notify - full Al decision loop.
+
+Final Deliverables (CHOOSE ANY ONE USE CASE)
+
+Item
+
+Description
+
+Code
+
+Collab link or GitHub repo with README
+
+Agent Flow Diagram
+
+PNG or draw.io or Figma diagram
+
+Explanation (PDF/Slides)
+
+One-pager explaining agent use case & impact
+
+Output Screenshots
+
+Sample inputs/outputs of the agent
+
+(Optional) Demo Video
+
+Phone/Screen-recorded demo
+
+**Tools Allowed but not limited feel free to choose others:
+
+Python (LangChain, ChromaDB, FAISS, OpenAl/Claude/Gemini APIs)
+
+Speech: Whisper / Google Speech-to-Text
+
+SQL (for bonus tasks / embedded search layer)
+
+Streamlit/Gradio / FastAPI for simple frontends
+
+AutoGPT/ CrewAl/ LangGraph (for advanced submissions)
+
+Visualization: Notion, Figma, Canva, Mermaid
+
+Google Drive /GitHub link with: [While Sharing pls make it accessible]
+
+Code
+
+How to Submit:
+
+Architecture
+
+Demo/video if any**
 
 ## Overview
 
