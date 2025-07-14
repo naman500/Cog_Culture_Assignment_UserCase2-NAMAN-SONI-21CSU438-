@@ -1,0 +1,1877 @@
+[
+  {
+    "employee_id": 0,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.45)",
+      "Below average performance evaluation (0.51)",
+      "Low project load (2 projects)",
+      "Moderate working hours (135/month)",
+      "No recent promotion",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Review workload and project assignment opportunities",
+      "Conduct compensation review",
+      "Create clear path for career advancement",
+      "Consider development opportunities or training programs"
+    ],
+    "summary": "Employee shows multiple risk factors including low satisfaction, mediocre performance, and career stagnation. The combination of no recent promotion, medium salary, and limited project engagement suggests disengagement. Immediate intervention is required as model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 1,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high monthly hours (264) indicating potential burnout",
+      "Perfect last evaluation (1.0) but no recent promotion",
+      "Medium salary despite high performance",
+      "Multiple projects (4) with long hours"
+    ],
+    "recommended_actions": [
+      "Immediate workload review and reallocation",
+      "Schedule promotion discussion",
+      "Conduct compensation review given performance",
+      "Implement work-life balance measures",
+      "Schedule 1:1 meeting to discuss career growth"
+    ],
+    "summary": "High-performing employee showing clear burnout risk with excessive working hours, perfect evaluation scores but no career advancement, and moderate compensation. Immediate intervention required to prevent departure, focusing on workload reduction and career development."
+  },
+  {
+    "employee_id": 2,
+    "status": "LOW RISK",
+    "reasons": [
+      "Perfect last evaluation score (1.0)",
+      "Moderate satisfaction level (0.54)",
+      "No complaints filed",
+      "Medium salary range",
+      "Strong work hours (222 monthly)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given high performance",
+      "Monitor workload as monthly hours are high",
+      "Schedule career development discussion",
+      "Provide opportunities for additional projects given strong performance"
+    ],
+    "summary": "Employee shows strong performance with perfect evaluation scores and high engagement through work hours. While satisfaction is moderate, other indicators suggest stability. Main focus should be on career growth and workload management to maintain retention."
+  },
+  {
+    "employee_id": 3,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.13)",
+      "High workload (282 hours/month)",
+      "High number of projects (6)",
+      "Medium salary despite high performance (0.86 evaluation)",
+      "No recent promotion in 4 years"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review given high performance",
+      "Conduct stay interview to address satisfaction issues",
+      "Consider for promotion or career advancement",
+      "Develop clear growth path and timeline"
+    ],
+    "summary": "Employee shows critical retention risk with burnout indicators: excessive hours, multiple projects, and very low satisfaction despite strong performance. Immediate intervention needed to address workload and career growth concerns. The combination of high performance without corresponding advancement suggests urgent need for retention plan."
+  },
+  {
+    "employee_id": 4,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Low satisfaction score (0.41)",
+      "Below average performance evaluation (0.56)",
+      "Low project load (2 projects)",
+      "Reduced working hours (131 hrs/month)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1-on-1 with manager to discuss job satisfaction",
+      "Consider workload rebalancing or new project assignments",
+      "Review compensation package given medium salary band",
+      "Develop clear career progression plan",
+      "Assess opportunities for skill development and training"
+    ],
+    "summary": "Employee shows multiple high-risk indicators including very low satisfaction, reduced working hours, and limited project engagement. The 99% churn probability suggests immediate intervention is needed. With 3 years tenure and medium salary, there's opportunity to re-engage through career development and workload optimization."
+  },
+  {
+    "employee_id": 5,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High workload (254 hours monthly)",
+      "Low salary despite good performance",
+      "High number of projects (5)",
+      "No recent promotion",
+      "6 years tenure with limited growth"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload to standard hours",
+      "Consider for promotion",
+      "Redistribute project assignments",
+      "Schedule career development discussion"
+    ],
+    "summary": "High-performing employee (evaluation: 0.88) with good satisfaction (0.78) showing clear burnout risk due to excessive workload, multiple projects, and undercompensation. Immediate intervention needed to prevent departure, focusing on workload reduction and career growth opportunities."
+  },
+  {
+    "employee_id": 6,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.42)",
+      "Below average performance evaluation (0.45)",
+      "Low project load (2 projects)",
+      "Moderate working hours with medium salary",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Create development plan to improve performance",
+      "Consider project reassignment or additional responsibilities",
+      "Review compensation package",
+      "Explore promotion opportunities"
+    ],
+    "summary": "Employee shows multiple high-risk indicators including low satisfaction, mediocre performance, and career stagnation. The combination of medium salary, moderate hours, and lack of career growth suggests disengagement. Immediate intervention is required as the model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 7,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (2%)",
+      "High performance rating (0.96)",
+      "Good project load (4 projects)",
+      "No recent complaints"
+    ],
+    "recommended_actions": [
+      "Consider salary review given high performance but low pay",
+      "Monitor workload (258 hrs/month is high)",
+      "Schedule career development discussion",
+      "Explore promotion opportunities"
+    ],
+    "summary": "Employee shows strong performance and engagement with low churn risk. However, the combination of high workload, low salary, and lack of recent promotion suggests potential future retention challenges. Preventive actions focused on compensation and career growth are recommended."
+  },
+  {
+    "employee_id": 8,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (0%)",
+      "Average tenure (3 years)",
+      "Moderate workload (3 projects)",
+      "No complaints filed",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule performance evaluation as none recorded",
+      "Consider for promotion opportunities given tenure",
+      "Monitor satisfaction level as it's moderately low (0.58)",
+      "Review workload as monthly hours (197) are slightly high"
+    ],
+    "summary": "Employee shows low churn risk with stable indicators across most metrics. However, attention needed on missing performance evaluation, moderately low satisfaction, and slightly high working hours. Career development opportunities should be explored given 3-year tenure."
+  },
+  {
+    "employee_id": 9,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.87)",
+      "No complaints filed",
+      "Moderate workload (3 projects)",
+      "Medium salary range",
+      "Stable tenure (3 years)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given strong performance",
+      "Monitor monthly hours (256) as they are somewhat high",
+      "Schedule regular check-ins to maintain high satisfaction",
+      "Provide opportunities for skill development"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and good performance metrics. While monthly hours are slightly high, other indicators suggest stability. The medium salary and moderate project load indicate a well-balanced role. Overall retention outlook is positive with low churn risk."
+  },
+  {
+    "employee_id": 10,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.07)",
+      "High workload (293 hours/month)",
+      "Multiple projects (7) indicating overwork",
+      "Low salary bracket",
+      "No recent promotion despite 4 years tenure",
+      "High performance evaluation (0.96) without recognition"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Consider immediate promotion assessment",
+      "Conduct stay interview to address satisfaction issues",
+      "Implement work-life balance measures"
+    ],
+    "summary": "Employee shows critical retention risk with multiple red flags: severe overwork (293 hours/month on 7 projects), very low satisfaction, and lack of career progression despite high performance. Immediate intervention required focusing on workload reduction and career development."
+  },
+  {
+    "employee_id": 11,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.88)",
+      "Strong performance evaluation (0.89)",
+      "Healthy work hours (158/month)",
+      "Balanced project load (3 projects)",
+      "No complaints filed",
+      "Medium salary bracket"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given strong performance",
+      "Maintain engagement through challenging projects",
+      "Schedule career development discussion",
+      "Review compensation in 6-12 months"
+    ],
+    "summary": "Employee shows strong performance indicators with high satisfaction and evaluation scores, manageable workload, and no red flags. Currently well-engaged with moderate churn risk. Focus should be on career growth and maintaining positive trajectory."
+  },
+  {
+    "employee_id": 12,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.14)",
+      "High workload (218 monthly hours)",
+      "Has filed a complaint",
+      "High project load (5 projects)",
+      "No recent promotion",
+      "Moderate performance evaluation (0.61)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Review and redistribute project workload",
+      "Investigate complaint resolution status",
+      "Consider for promotion or role adjustment",
+      "Evaluate compensation package given workload"
+    ],
+    "summary": "Despite low predicted churn probability, multiple high-risk factors are present including very low satisfaction, heavy workload, unresolved complaint, and lack of career progression. Immediate intervention is recommended to address these concerns before they lead to turnover."
+  },
+  {
+    "employee_id": 13,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.42)",
+      "Has filed a complaint",
+      "Low salary bracket",
+      "High workload (6 projects, 172 hrs/month)",
+      "No recent promotion",
+      "Relatively short tenure (2 years)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss workload and project distribution",
+      "Conduct compensation review given low salary and workload",
+      "Create career development plan with clear promotion pathway",
+      "Address complaint resolution status",
+      "Consider reassignment of projects to reduce workload"
+    ],
+    "summary": "Despite low predicted churn probability, multiple risk factors present including low satisfaction, filed complaint, heavy workload, and compensation concerns. Employee shows good performance (0.67 evaluation) but lacks growth opportunities. Immediate intervention recommended to address workload and career development."
+  },
+  {
+    "employee_id": 14,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High churn probability (81%)",
+      "Low satisfaction score (0.44)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Above average performance (0.79 evaluation)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate compensation review",
+      "Conduct stay interview to understand concerns",
+      "Consider for promotion given strong performance",
+      "Evaluate workload distribution across projects",
+      "Develop career growth plan"
+    ],
+    "summary": "Employee #14 shows strong indicators of flight risk with 81% churn probability. Key concerns include low satisfaction, lack of career progression despite good performance, and low compensation. Immediate intervention is needed with focus on career development and compensation adjustment."
+  },
+  {
+    "employee_id": 15,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (4%)",
+      "Long tenure (8 years)",
+      "High salary bracket",
+      "Good performance evaluation (0.79)"
+    ],
+    "recommended_actions": [
+      "Address low satisfaction score (0.18) through 1:1 discussions",
+      "Investigate recent complaint filing",
+      "Consider workload balance - high monthly hours (259)",
+      "Explore opportunities for promotion given tenure and performance"
+    ],
+    "summary": "While the employee shows low churn risk due to long tenure, high salary, and strong performance, there are concerning signals in low satisfaction and recent complaint. The high working hours and lack of recent promotion despite good performance warrant attention to prevent future retention issues."
+  },
+  {
+    "employee_id": 16,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (93%)",
+      "Zero satisfaction score",
+      "Zero last evaluation score",
+      "New employee (0 years tenure)",
+      "Low project count (2)",
+      "Below average working hours (119/month)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Create performance evaluation plan",
+      "Consider project reassignment or additional responsibilities",
+      "Review compensation package",
+      "Implement onboarding improvement plan",
+      "Set up mentorship program"
+    ],
+    "summary": "Employee #16 shows multiple high-risk indicators including zero satisfaction, no performance evaluation, and very low engagement metrics. This new hire appears significantly disengaged and requires immediate intervention with only 119 monthly hours across 2 projects. The 93% churn probability suggests urgent action is needed."
+  },
+  {
+    "employee_id": 17,
+    "status": "LOW RISK",
+    "reasons": [
+      "Above average satisfaction level (0.70)",
+      "Good performance evaluation (0.69)",
+      "Reasonable workload (2 projects)",
+      "Healthy work hours (152/month)",
+      "Stable tenure (4 years)"
+    ],
+    "recommended_actions": [
+      "Consider salary review/raise given low salary status",
+      "Discuss career growth opportunities",
+      "Maintain regular check-ins to sustain satisfaction",
+      "Explore promotion potential given tenure and performance"
+    ],
+    "summary": "Employee shows positive engagement markers with good satisfaction, performance, and stable workload. Main concern is low salary level which should be addressed. Current churn probability of 27% indicates low risk, but proactive measures recommended to maintain retention."
+  },
+  {
+    "employee_id": 18,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.10)",
+      "Long working hours (291 hrs/month)",
+      "High workload (6 projects)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Good performance but no recognition (0.82 evaluation)"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction to max 4 projects",
+      "Schedule compensation review",
+      "Implement work-life balance measures",
+      "Consider for promotion/career advancement",
+      "Conduct stay interview to address concerns"
+    ],
+    "summary": "Employee shows critical retention risk with 100% churn probability. Key issues include burnout risk from excessive hours/projects, low compensation, and lack of career growth despite good performance. Immediate intervention required focusing on workload reduction and career development."
+  },
+  {
+    "employee_id": 19,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.35)",
+      "Below average performance evaluation (0.49)",
+      "Low project load (2 projects)",
+      "No recent promotion",
+      "Medium salary bracket with 3 years tenure"
+    ],
+    "recommended_actions": [
+      "Schedule immediate one-on-one meeting to discuss job satisfaction",
+      "Review compensation package given tenure",
+      "Create development plan with clear promotion path",
+      "Consider assigning additional challenging projects",
+      "Provide performance improvement coaching"
+    ],
+    "summary": "Employee shows multiple high-risk indicators, particularly very low satisfaction and mediocre performance. The combination of stagnant career growth, medium salary after 3 years, and low project engagement suggests significant disengagement. Immediate intervention is required as the model predicts certain departure."
+  },
+  {
+    "employee_id": 20,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high monthly hours (232) indicating potential burnout",
+      "High performance but medium salary level",
+      "Multiple projects (4) with high workload",
+      "No recent promotion despite good performance",
+      "High churn probability (99%)"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and potential adjustment",
+      "Reduce workload/redistribute projects",
+      "Schedule career development discussion",
+      "Consider for promotion based on strong performance",
+      "Implement work-life balance measures"
+    ],
+    "summary": "High-performing employee showing clear burnout risk with excessive working hours and unbalanced workload. Despite good satisfaction and evaluation scores, lack of career progression and compensation alignment presents immediate flight risk. Urgent intervention required."
+  },
+  {
+    "employee_id": 21,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.099)",
+      "High workload (288 hours/month)",
+      "High number of projects (6)",
+      "Medium salary despite high performance (0.83 evaluation)",
+      "No recent promotion in 4 years"
+    ],
+    "recommended_actions": [
+      "Immediate one-on-one meeting to discuss job satisfaction",
+      "Reduce project load to maximum 4 projects",
+      "Review compensation package given high performance",
+      "Consider for promotion or role advancement",
+      "Implement workload reduction plan to standard hours"
+    ],
+    "summary": "Employee shows critical retention risk with 100% churn probability. Key issues are extremely low satisfaction, overwork (288 monthly hours), high project load, and lack of career progression despite strong performance. Immediate intervention required focusing on workload reduction and career development."
+  },
+  {
+    "employee_id": 22,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.11)",
+      "High workload (285 hours/month)",
+      "High number of projects (6)",
+      "Medium salary despite high workload",
+      "No recent promotion in 4 years"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention to discuss workload and project allocation",
+      "Consider salary adjustment based on workload",
+      "Create promotion/career development plan",
+      "Reduce number of assigned projects",
+      "Schedule regular check-ins to monitor satisfaction"
+    ],
+    "summary": "Employee shows critical risk factors with extremely low satisfaction, excessive workload (285 hours/month), and high project load (6 projects) without corresponding compensation or career advancement. Immediate intervention required to prevent imminent departure."
+  },
+  {
+    "employee_id": 23,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.43)",
+      "Below average performance evaluation (0.44)",
+      "Low salary bracket",
+      "Low project load (2 projects)",
+      "Relatively short tenure (3 years)",
+      "Working fewer hours than average (131 hrs/month)"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Schedule career development discussion",
+      "Assess workload distribution and project assignments",
+      "Conduct stay interview to understand concerns",
+      "Consider for skill development opportunities"
+    ],
+    "summary": "Employee shows multiple high-risk indicators including low satisfaction, below-average performance, and compensation concerns. The combination of low salary, light workload, and moderate tenure suggests potential career stagnation. Immediate intervention is required as the model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 24,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.36)",
+      "Low salary bracket",
+      "Below average performance evaluation (0.55)",
+      "No recent promotion",
+      "Light workload (only 2 projects)"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Schedule 1:1 meeting to discuss career growth opportunities",
+      "Consider for promotion if performance improves",
+      "Assign additional challenging projects if desired",
+      "Develop clear performance improvement plan"
+    ],
+    "summary": "Employee #24 shows multiple high-risk indicators with 100% predicted probability of leaving. Key concerns are low satisfaction, compensation, and career growth stagnation. Immediate intervention required focusing on salary adjustment and career development opportunities."
+  },
+  {
+    "employee_id": 25,
+    "status": "LOW RISK",
+    "reasons": [
+      "High performance rating (0.97)",
+      "Above average satisfaction (0.70)",
+      "Reasonable workload (3 projects)",
+      "Stable tenure (3 years)"
+    ],
+    "recommended_actions": [
+      "Consider salary increase given high performance",
+      "Discuss career growth opportunities",
+      "Monitor workload to maintain satisfaction",
+      "Schedule regular check-ins to maintain engagement"
+    ],
+    "summary": "Employee shows strong performance and good satisfaction levels despite low salary. While currently low risk for churn, addressing compensation and career development could further strengthen retention. Current metrics indicate a valuable team member worth investing in."
+  },
+  {
+    "employee_id": 26,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (96%)",
+      "Low satisfaction score (0.45)",
+      "Low performance evaluation (0.38)",
+      "Below average working hours (136/month)",
+      "Low project engagement (only 2 projects)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention for career discussion",
+      "Review workload and project assignments",
+      "Discuss professional development opportunities",
+      "Consider fast-track for promotion evaluation",
+      "Conduct stay interview to understand concerns"
+    ],
+    "summary": "High-salaried employee showing multiple risk factors including low satisfaction, low performance, and limited engagement. Despite good compensation, the combination of no recent promotion and low project involvement suggests career stagnation. Immediate intervention required as churn risk is critical at 96%."
+  },
+  {
+    "employee_id": 27,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (2%)",
+      "High performance rating (0.97)",
+      "High salary bracket",
+      "No complaints filed",
+      "Multiple projects (5) indicating trust"
+    ],
+    "recommended_actions": [
+      "Monitor high monthly hours (274) to prevent burnout",
+      "Schedule career development discussion given 2-year tenure",
+      "Consider for promotion given strong performance",
+      "Address moderate satisfaction level (0.59) through engagement"
+    ],
+    "summary": "Employee shows strong performance and engagement with low churn risk. Main attention areas are high working hours and moderate satisfaction. Current profile suggests a valuable team member who may benefit from career growth opportunities and workload management."
+  },
+  {
+    "employee_id": 28,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Low satisfaction score (0.17)",
+      "High workload (256 hours/month)",
+      "High number of projects (6)",
+      "Low salary bracket",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Reduce project load to maximum 4 projects",
+      "Schedule urgent 1:1 with manager to discuss workload",
+      "Consider for promotion in next cycle",
+      "Develop clear career progression plan",
+      "Review work-life balance and overtime hours"
+    ],
+    "summary": "Employee shows critical retention risk with multiple concerning factors: excessive workload, low compensation, project overload, and very low satisfaction despite good performance (0.83 evaluation). Immediate intervention required focusing on workload reduction and compensation adjustment."
+  },
+  {
+    "employee_id": 29,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (1%)",
+      "Above average satisfaction (0.73)",
+      "Strong performance evaluation (0.83)",
+      "No complaints filed",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Monitor high monthly hours (232) to prevent burnout",
+      "Consider for promotion in next cycle given strong performance",
+      "Review workload distribution across 4 projects",
+      "Schedule regular check-ins to maintain engagement"
+    ],
+    "summary": "Employee shows strong performance and satisfaction with low churn risk. Main watch point is high monthly hours which could lead to burnout. Current trajectory is positive with opportunities for career growth given strong evaluation scores."
+  },
+  {
+    "employee_id": 30,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.27)",
+      "High workload (240 hours/month)",
+      "Filed complaint",
+      "Low salary bracket",
+      "High number of projects (6)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Conduct immediate one-on-one meeting to discuss workload and satisfaction",
+      "Review and redistribute project assignments",
+      "Address complaint status and resolution",
+      "Evaluate for salary adjustment or bonus",
+      "Consider for promotion assessment",
+      "Develop clear career progression plan"
+    ],
+    "summary": "Despite low predicted churn probability, multiple high-risk factors are present including burnout indicators (high hours, many projects), low satisfaction, unresolved complaint, and compensation issues. Immediate intervention recommended to address workload and career growth concerns."
+  },
+  {
+    "employee_id": 31,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (0%)",
+      "Balanced workload with 3 projects",
+      "Average working hours within normal range",
+      "No complaints filed",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule regular check-ins to maintain engagement",
+      "Consider growth opportunities as tenure increases",
+      "Plan for potential promotion in next review cycle",
+      "Provide feedback on performance to improve evaluation score"
+    ],
+    "summary": "Employee #31 shows low churn risk with stable performance indicators. While satisfaction and evaluation scores are moderate, the balanced workload and absence of negative factors suggest good retention outlook. Focus should be on maintaining engagement and planning career development."
+  },
+  {
+    "employee_id": 32,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.09)",
+      "Long working hours (271 hrs/month)",
+      "Low salary despite 5 years tenure",
+      "High workload (5 projects)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Reduce workload by reassigning projects",
+      "Schedule career development discussion",
+      "Implement work-life balance measures",
+      "Consider promotion opportunity"
+    ],
+    "summary": "Employee shows critical retention risk with 100% churn probability. Key issues include severe job dissatisfaction, excessive working hours, and undercompensation despite good performance (0.84 evaluation score). Immediate intervention required focusing on workload reduction and compensation adjustment."
+  },
+  {
+    "employee_id": 33,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.38/1.0)",
+      "Below average monthly hours (127)",
+      "Low number of projects (2)",
+      "Average performance evaluation (0.50)",
+      "No recent promotion",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Create development plan with opportunities for more challenging projects",
+      "Consider for promotion track if performance improves",
+      "Review workload distribution and project assignments",
+      "Evaluate compensation package against market rates"
+    ],
+    "summary": "Employee #33 shows multiple high-risk indicators, particularly very low satisfaction and engagement levels. With 3 years tenure and average performance, but no career progression, they appear disconnected and under-challenged. Immediate intervention is needed as the model predicts certain departure."
+  },
+  {
+    "employee_id": 34,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.09)",
+      "Long working hours (304 hrs/month)",
+      "High workload (6 projects)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Above average performance (0.82 evaluation)"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Conduct stay interview to address satisfaction issues",
+      "Consider promotion opportunity",
+      "Implement work-life balance measures",
+      "Review overtime policy"
+    ],
+    "summary": "Employee shows critical retention risk with burnout indicators: excessive working hours, high project load, and very low satisfaction despite good performance. Combined with low compensation and lack of career progression, immediate intervention is required to prevent departure."
+  },
+  {
+    "employee_id": 35,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.82)",
+      "Strong performance evaluation (0.90)",
+      "Healthy work hours (163/month)",
+      "No complaints filed",
+      "Good project load (4 projects)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion given strong performance",
+      "Review compensation - currently in low salary bracket despite good metrics",
+      "Discuss career development opportunities",
+      "Maintain regular check-ins to sustain high satisfaction"
+    ],
+    "summary": "Employee shows strong performance metrics and high job satisfaction, indicating low churn risk. Main concern is low salary despite good performance. Focus should be on career growth and compensation review to maintain engagement."
+  },
+  {
+    "employee_id": 36,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Filed complaint indicates dissatisfaction",
+      "Below average satisfaction score (0.54)",
+      "Below average performance evaluation (0.43)",
+      "Medium salary level with moderate workload"
+    ],
+    "recommended_actions": [
+      "Schedule 1:1 meeting to discuss complaint and resolution",
+      "Create performance improvement plan with clear goals",
+      "Review compensation package and career growth opportunities",
+      "Consider workload redistribution across projects"
+    ],
+    "summary": "Employee #36 shows multiple risk factors despite low immediate churn probability. The combination of a formal complaint, below average satisfaction and performance scores, along with moderate compensation suggests underlying issues that need prompt attention to prevent future turnover risk."
+  },
+  {
+    "employee_id": 37,
+    "status": "LOW RISK",
+    "reasons": [
+      "Very high satisfaction score (0.93)",
+      "Strong performance evaluation (0.87)",
+      "Healthy work hours (168/month)",
+      "No complaints filed",
+      "Low churn probability (1%)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion given strong performance",
+      "Review salary level as currently in low bracket",
+      "Maintain engagement through challenging projects",
+      "Discuss career growth opportunities at next review"
+    ],
+    "summary": "Employee shows strong engagement and performance with very low churn risk. Main attention point is low salary despite good metrics. While current churn risk is minimal, proactive salary review and career development discussions recommended to maintain satisfaction levels."
+  },
+  {
+    "employee_id": 38,
+    "status": "LOW RISK",
+    "reasons": [
+      "Long tenure of 10 years indicates stability",
+      "High performance with 0.91 evaluation score",
+      "Medium salary range is appropriate",
+      "No complaints filed",
+      "Predicted to remain employed with 0% churn probability"
+    ],
+    "recommended_actions": [
+      "Consider for promotion given high performance",
+      "Review workload as monthly hours (224) are high",
+      "Schedule career development discussion",
+      "Monitor satisfaction level which is moderate at 0.62"
+    ],
+    "summary": "Long-tenured employee with excellent performance metrics and no red flags for churn. Main focus areas should be managing high workload and improving satisfaction through career growth opportunities. Overall retention outlook is very positive."
+  },
+  {
+    "employee_id": 39,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.41/1.0)",
+      "Low salary bracket",
+      "Below average performance evaluation (0.48/1.0)",
+      "Low project load (2 projects)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Schedule immediate meeting with manager to discuss career growth",
+      "Conduct compensation review",
+      "Create development plan to improve performance",
+      "Consider assigning additional challenging projects",
+      "Evaluate for promotion opportunities"
+    ],
+    "summary": "Employee #39 shows multiple high-risk indicators including low satisfaction, low compensation, and stagnant career growth. With 3 years tenure and declining performance, immediate intervention is needed. The 100% churn probability suggests this employee is actively seeking other opportunities."
+  },
+  {
+    "employee_id": 40,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Low satisfaction score (0.35)",
+      "Below average performance evaluation (0.60)",
+      "Low project load (2 projects)",
+      "No recent promotion",
+      "Medium salary bracket"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention for career discussion",
+      "Review workload and project assignments",
+      "Consider promotion or role advancement opportunities",
+      "Conduct stay interview to understand concerns",
+      "Evaluate compensation package relative to market"
+    ],
+    "summary": "Employee #40 shows critical churn risk with 99% probability of leaving. Key concerns include low job satisfaction, moderate performance, and career stagnation. Immediate intervention required with focus on career development and engagement improvement."
+  },
+  {
+    "employee_id": 41,
+    "status": "LOW RISK",
+    "reasons": [
+      "Very high job satisfaction (0.96)",
+      "Low predicted churn probability (0.01)",
+      "No complaints filed",
+      "Above average performance evaluation (0.54)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion given 3 years tenure and 5 projects",
+      "Review compensation as currently in low salary bracket",
+      "Monitor high monthly hours (247) for potential burnout",
+      "Discuss career development opportunities"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and good performance, though working long hours. Main retention risk is low salary despite solid tenure and workload. Overall churn risk is low, but addressing compensation and career growth would help maintain satisfaction."
+  },
+  {
+    "employee_id": 42,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Long working hours (239 hrs/month)",
+      "Low salary despite good performance",
+      "High workload (4 projects)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload/redistribute projects",
+      "Schedule career development discussion",
+      "Review work-life balance and hours",
+      "Consider promotion opportunity"
+    ],
+    "summary": "Employee shows critical churn risk with 99% probability. Key concerns are overwork (239 monthly hours), low compensation despite strong performance (0.82 evaluation), and career stagnation (no recent promotion). Immediate intervention required focusing on compensation adjustment and workload management."
+  },
+  {
+    "employee_id": 43,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.36)",
+      "Low salary bracket",
+      "Low performance evaluation score (0.0)",
+      "No recent promotion",
+      "Relatively low number of projects (2)"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention for performance discussion",
+      "Conduct compensation review",
+      "Create development plan with additional project opportunities",
+      "Schedule regular check-ins to address satisfaction concerns",
+      "Consider for promotion track if performance improves"
+    ],
+    "summary": "Employee #43 shows multiple high-risk indicators including very low satisfaction, low compensation, and poor performance metrics. The combination of low engagement factors and lack of career progression suggests immediate intervention is required to prevent departure."
+  },
+  {
+    "employee_id": 44,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Long working hours (259 hrs/month)",
+      "Low salary despite 5 years tenure",
+      "High workload (5 projects)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload by redistributing projects",
+      "Schedule career development discussion",
+      "Consider for promotion",
+      "Evaluate work-life balance and adjust hours"
+    ],
+    "summary": "Employee shows critical churn risk with 99% probability. Key concerns include overwork (259 monthly hours), low compensation despite 5-year tenure, and high project load. Despite good performance (0.89 evaluation) and moderate satisfaction (0.70), the combination of high workload and low pay requires immediate intervention."
+  },
+  {
+    "employee_id": 45,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.39)",
+      "Low salary bracket",
+      "Below average performance evaluation (0.59)",
+      "No recent promotion",
+      "Light workload (only 2 projects)"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Schedule 1:1 meeting to discuss career growth opportunities",
+      "Consider for promotion if performance improves",
+      "Assign additional challenging projects to increase engagement",
+      "Develop clear performance improvement plan"
+    ],
+    "summary": "Employee #45 shows multiple high-risk indicators with 100% predicted probability of leaving. Key concerns include low satisfaction, compensation issues, and limited career growth. Immediate intervention is required with focus on compensation adjustment and career development opportunities."
+  },
+  {
+    "employee_id": 46,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.80)",
+      "Strong performance evaluation (0.83)",
+      "Competitive high salary",
+      "No complaints filed",
+      "Healthy project load (3 projects)"
+    ],
+    "recommended_actions": [
+      "Continue regular check-ins to maintain high satisfaction",
+      "Consider for promotion in next cycle given strong performance",
+      "Monitor workload as monthly hours (214) are slightly high"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and performance scores, competitive compensation, and manageable workload. The very low churn probability (1%) reflects a stable employment situation. Main focus should be maintaining current positive conditions while watching work-life balance."
+  },
+  {
+    "employee_id": 47,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.43)",
+      "Below average performance evaluation (0.46)",
+      "Low project engagement (only 2 projects)",
+      "No recent promotion",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Create development plan to improve performance",
+      "Consider assigning additional challenging projects",
+      "Review compensation package",
+      "Evaluate promotion opportunities"
+    ],
+    "summary": "Employee #47 shows multiple high-risk indicators including low satisfaction, mediocre performance, and limited engagement. The combination of no recent promotion and average compensation suggests career stagnation. Immediate intervention is required as the model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 48,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.32)",
+      "Below average performance evaluation (0.40)",
+      "Medium workload with 4 projects but low hours (114/month)",
+      "No recent promotion in 4 years tenure",
+      "Medium salary band with stagnant growth"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Create development plan with clear promotion path",
+      "Review workload distribution and project assignments",
+      "Consider compensation review given tenure",
+      "Enroll in mentorship program"
+    ],
+    "summary": "Despite low immediate churn probability, multiple risk factors present including low satisfaction, mediocre performance, and career stagnation. Employee shows signs of disengagement with low hours despite multiple projects. Immediate intervention recommended to improve engagement and career growth."
+  },
+  {
+    "employee_id": 49,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Extremely low satisfaction score (0.12)",
+      "Long working hours (271 hrs/month)",
+      "High workload (6 projects)",
+      "Low salary bracket",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention for workload reduction",
+      "Salary review and adjustment",
+      "Reduce number of assigned projects to maximum 4",
+      "Schedule career development discussion",
+      "Consider immediate promotion assessment",
+      "Implement work-life balance measures"
+    ],
+    "summary": "Employee #49 shows critical churn risk indicators with 99% probability of leaving. Key concerns include burnout risk from excessive hours (271/month) across 6 projects, very low satisfaction (0.12), and low compensation. Despite 4 years tenure and good performance (0.78), no recent promotion suggests career stagnation. Immediate intervention required."
+  },
+  {
+    "employee_id": 50,
+    "status": "LOW RISK",
+    "reasons": [
+      "High salary bracket",
+      "Strong performance evaluation (0.95)",
+      "Stable tenure of 3 years",
+      "Above average satisfaction (0.65)"
+    ],
+    "recommended_actions": [
+      "Address the filed complaint to prevent future issues",
+      "Monitor high working hours (199/month) to prevent burnout",
+      "Consider for next promotion cycle given strong performance",
+      "Maintain regular check-ins given the high workload"
+    ],
+    "summary": "Employee shows strong performance and stability with a high salary and decent satisfaction. While generally low risk, attention should be paid to their filed complaint and high working hours to maintain engagement and prevent future issues."
+  },
+  {
+    "employee_id": 51,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (5%)",
+      "High salary bracket",
+      "Reasonable workload (3 projects)",
+      "No complaints filed",
+      "Stable tenure (3 years)"
+    ],
+    "recommended_actions": [
+      "Address low satisfaction score through 1:1 discussions",
+      "Investigate reasons for below-average performance evaluation",
+      "Consider growth opportunities given stable tenure",
+      "Monitor workload as monthly hours are slightly high"
+    ],
+    "summary": "Employee shows low churn risk despite low satisfaction and mediocre evaluation scores. Their high salary and stable position are positive retention factors. Main focus should be on improving job satisfaction and performance through targeted support and development opportunities."
+  },
+  {
+    "employee_id": 52,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.39)",
+      "Below average performance evaluation (0.54)",
+      "Low project load (2 projects)",
+      "Moderate working hours (135/month)",
+      "No recent promotion",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 with manager to discuss job satisfaction",
+      "Review workload and consider assigning challenging projects",
+      "Evaluate for promotion opportunities",
+      "Develop clear career progression plan",
+      "Consider compensation review"
+    ],
+    "summary": "Employee shows clear signs of disengagement with very low satisfaction, mediocre performance, and stagnant career growth. The combination of no recent promotion, moderate workload, and medium salary suggests they may feel undervalued. Immediate intervention is required as the model predicts certain departure."
+  },
+  {
+    "employee_id": 53,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (6%)",
+      "Good performance evaluation score (0.75)",
+      "Moderate tenure of 4 years",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Monitor low satisfaction score (0.39)",
+      "Consider career development opportunities given high workload (186 hrs/month)",
+      "Review project load (5 projects) to prevent burnout",
+      "Schedule check-in to discuss job satisfaction"
+    ],
+    "summary": "Employee shows low churn risk with good performance and stable tenure, but attention needed on low satisfaction and high workload. While immediate retention risk is low, preventive measures recommended to maintain engagement."
+  },
+  {
+    "employee_id": 54,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high monthly hours (242) indicating potential burnout",
+      "High number of projects (5) suggesting heavy workload",
+      "Medium salary despite strong performance (0.85 evaluation)",
+      "No recent promotion despite 5 years tenure",
+      "Moderate satisfaction level (0.79) showing room for improvement"
+    ],
+    "recommended_actions": [
+      "Immediate workload review and redistribution",
+      "Schedule compensation review given performance metrics",
+      "Discuss career progression opportunities",
+      "Consider promotion evaluation",
+      "Implement work-life balance measures"
+    ],
+    "summary": "Employee shows clear burnout risk with excessive working hours, high project load, and stagnant career growth despite good performance. Immediate intervention needed to address workload and career development to prevent likely departure."
+  },
+  {
+    "employee_id": 55,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.13)",
+      "Long working hours (255 hrs/month)",
+      "High workload (6 projects)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Good performance but overworked (evaluation: 0.86)"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Conduct stay interview to address satisfaction issues",
+      "Consider promotion opportunity",
+      "Implement work-life balance measures",
+      "Adjust working hours to standard levels"
+    ],
+    "summary": "Employee shows critical retention risk with 100% churn probability. Key issues include severe overwork (255 monthly hours), low satisfaction, and compensation concerns despite good performance. Multiple projects and low salary suggest burnout risk. Immediate intervention required focusing on workload reduction and career growth."
+  },
+  {
+    "employee_id": 56,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.93)",
+      "Strong performance evaluation (0.81)",
+      "Good project engagement (4 projects)",
+      "Low predicted churn probability (1%)"
+    ],
+    "recommended_actions": [
+      "Address recent complaint filing",
+      "Consider salary review given low pay despite good performance",
+      "Monitor high monthly hours (221) for potential burnout",
+      "Discuss promotion opportunities given tenure and performance"
+    ],
+    "summary": "Employee shows strong engagement and performance with very low churn risk. However, attention needed to recent complaint, high working hours, and compensation level to maintain satisfaction. Current tenure and performance suggest growth potential."
+  },
+  {
+    "employee_id": 57,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.76)",
+      "Strong performance evaluation (0.79)",
+      "Healthy work-life balance (132 hrs/month)",
+      "Manageable project load (3 projects)",
+      "No complaints filed"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given strong performance",
+      "Maintain engagement through challenging projects",
+      "Review compensation package at 3-year mark",
+      "Include in high-potential talent development program"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and performance scores, maintaining good work-life balance. Currently at medium salary with 2 years tenure. Very low churn risk (1%) with positive indicators across key metrics. Focus should be on growth opportunities to maintain engagement."
+  },
+  {
+    "employee_id": 58,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (17%)",
+      "Good performance evaluation score (0.72)",
+      "Stable tenure (3 years)",
+      "Engaged in multiple projects (4)"
+    ],
+    "recommended_actions": [
+      "Consider salary review/adjustment due to low salary bracket",
+      "Monitor high monthly hours (249) to prevent burnout",
+      "Discuss career growth opportunities given no recent promotion",
+      "Schedule check-in to address moderate satisfaction level (0.52)"
+    ],
+    "summary": "Employee shows low churn risk with good performance and stable tenure, though attention is needed regarding compensation and workload. Key focus areas should be salary adjustment and work-life balance to maintain engagement and prevent future retention risks."
+  },
+  {
+    "employee_id": 59,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.76)",
+      "No complaints filed",
+      "Medium salary level",
+      "Moderate workload with 4 projects"
+    ],
+    "recommended_actions": [
+      "Continue regular check-ins to maintain satisfaction",
+      "Consider performance review as last evaluation score (0.48) is moderate",
+      "Monitor workload as monthly hours (222) are slightly high",
+      "Evaluate for promotion opportunities in next cycle given 2-year tenure"
+    ],
+    "summary": "Employee shows positive engagement with good satisfaction and no red flags. While workload is slightly high, overall indicators suggest stable employment. Focus should be on maintaining satisfaction and managing workload while preparing for potential career growth opportunities."
+  },
+  {
+    "employee_id": 60,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.34/1.0)",
+      "Low salary bracket",
+      "Low monthly hours (130)",
+      "No recent promotion",
+      "Low performance evaluation score",
+      "Limited project assignments (2)"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review and adjustment",
+      "Schedule career development discussion",
+      "Increase project responsibilities",
+      "Provide performance improvement guidance",
+      "Consider for promotion evaluation",
+      "Conduct stay interview to understand concerns"
+    ],
+    "summary": "Employee shows multiple high-risk indicators including low satisfaction, compensation, and engagement levels. The combination of low salary, minimal workload, and lack of career progression suggests significant disengagement. Immediate intervention is required as the model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 61,
+    "status": "LOW RISK",
+    "reasons": [
+      "Very high satisfaction score (0.96)",
+      "Good performance evaluation (0.66)",
+      "Healthy work hours (149/month)",
+      "No complaints filed",
+      "Low churn probability (3%)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given good performance",
+      "Review salary level as currently in low bracket",
+      "Maintain engagement through project opportunities",
+      "Schedule regular check-ins to maintain high satisfaction"
+    ],
+    "summary": "Employee shows strong engagement with very high satisfaction and good performance metrics. Main watch point is low salary bracket despite positive indicators. Overall retention risk is low at 3%, but proactive salary review and career development would help maintain the positive trajectory."
+  },
+  {
+    "employee_id": 62,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High churn probability (78%)",
+      "Low salary bracket",
+      "Below average satisfaction (0.59/1.0)",
+      "Relatively short tenure (2 years)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Schedule immediate compensation review",
+      "Conduct stay interview to understand concerns",
+      "Consider for promotion assessment",
+      "Evaluate workload distribution across 4 projects",
+      "Develop career growth plan"
+    ],
+    "summary": "Employee #62 shows significant flight risk with 78% churn probability. Key concerns include low compensation, moderate satisfaction, and lack of career progression despite good performance (0.75 evaluation score). Immediate intervention is recommended focusing on compensation adjustment and career development opportunities."
+  },
+  {
+    "employee_id": 63,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.07)",
+      "Overworked - extremely high monthly hours (299)",
+      "High workload with 6 projects",
+      "Low salary despite good performance (0.92 evaluation)",
+      "No recent promotion in 4 years"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload by reassigning projects",
+      "Schedule burnout prevention meeting",
+      "Create promotion pathway plan",
+      "Implement work-life balance improvements"
+    ],
+    "summary": "Employee shows critical retention risk with multiple red flags: severe overwork, very low satisfaction, and compensation issues despite strong performance. Immediate intervention required focusing on workload reduction and career growth opportunities."
+  },
+  {
+    "employee_id": 64,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction level (0.75)",
+      "Good performance evaluation (0.68)",
+      "No complaints filed",
+      "Moderate tenure of 3 years"
+    ],
+    "recommended_actions": [
+      "Consider salary increase given high workload and low salary bracket",
+      "Review workload distribution (216 hrs/month is high)",
+      "Discuss career growth opportunities given no recent promotion",
+      "Evaluate project allocation (5 projects may indicate overload)"
+    ],
+    "summary": "Employee shows positive engagement with high satisfaction and good performance, though workload and compensation are potential concerns. While current churn risk is low (30%), addressing compensation and workload balance could help retain this valuable team member."
+  },
+  {
+    "employee_id": 65,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (2%)",
+      "Good satisfaction level (0.63)",
+      "Healthy work hours",
+      "Stable tenure of 4 years"
+    ],
+    "recommended_actions": [
+      "Consider salary review given low salary bracket",
+      "Maintain engagement through new project opportunities",
+      "Schedule regular check-ins to maintain satisfaction",
+      "Explore promotion opportunities given tenure and project load"
+    ],
+    "summary": "Employee shows low churn risk with good satisfaction and stable tenure. Main concern is low salary bracket despite 4 years of service and managing 4 projects. While current risk is low, proactive salary review and career development discussions recommended to maintain engagement."
+  },
+  {
+    "employee_id": 66,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.36)",
+      "Below average performance evaluation (0.59)",
+      "Low project load (2 projects)",
+      "No recent promotion",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Review workload and consider assigning challenging projects",
+      "Evaluate for promotion opportunities",
+      "Conduct compensation review",
+      "Create development plan to increase engagement"
+    ],
+    "summary": "Employee #66 shows critical attrition risk with 100% churn probability. Key concerns include low satisfaction, moderate performance, and limited career growth. Immediate intervention required focusing on engagement, career development, and workload adjustment."
+  },
+  {
+    "employee_id": 67,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.86)",
+      "Strong performance evaluation (0.75)",
+      "Healthy work hours (164/month)",
+      "No complaints filed",
+      "Low churn probability (0.1)"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given strong performance",
+      "Review compensation as currently in low salary bracket",
+      "Assign additional projects gradually as employee shows capability",
+      "Schedule career development discussion"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and performance scores, though currently in low salary bracket. While churn risk is low at 10%, addressing compensation and career growth opportunities would help retain this valuable team member."
+  },
+  {
+    "employee_id": 68,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (98%)",
+      "Has filed a complaint",
+      "Low satisfaction score (0.49/1.0)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Average performance evaluation (0.61)"
+    ],
+    "recommended_actions": [
+      "Immediate manager intervention and 1:1 discussion",
+      "Review compensation and consider salary adjustment",
+      "Address complaint status and resolution",
+      "Discuss career growth opportunities",
+      "Evaluate workload and project assignments",
+      "Create development plan with clear promotion path"
+    ],
+    "summary": "Employee #68 shows critical retention risk with 98% churn probability. Key concerns include an active complaint, low satisfaction, and compensation issues. The combination of low salary, lack of promotion, and moderate performance suggests a disengaged employee requiring immediate intervention to prevent departure."
+  },
+  {
+    "employee_id": 69,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.39)",
+      "Below average performance evaluation (0.52)",
+      "Low project load (2 projects)",
+      "No recent promotion",
+      "Medium salary bracket with moderate tenure"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Review workload and consider assigning engaging projects",
+      "Evaluate promotion opportunities",
+      "Conduct compensation review",
+      "Create development plan to increase engagement"
+    ],
+    "summary": "Employee shows critical risk indicators with very low satisfaction, mediocre performance, and limited career growth. The combination of low engagement metrics and stagnant career progression strongly suggests imminent departure. Immediate intervention required focusing on career development and engagement."
+  },
+  {
+    "employee_id": 70,
+    "status": "LOW RISK",
+    "reasons": [
+      "Low churn probability (2%)",
+      "Moderate workload (182 hours/month)",
+      "No complaints filed",
+      "Average performance evaluation (0.61)",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Monitor satisfaction level as it's relatively low (0.42)",
+      "Consider career development opportunities given 2-year tenure",
+      "Review project allocation - currently at 2 projects which is manageable",
+      "Schedule regular check-ins to maintain engagement"
+    ],
+    "summary": "Employee #70 shows low churn risk with 2% probability. While most indicators are stable (moderate workload, no complaints, average evaluation), the below-average satisfaction score warrants attention. Recommended focus on career development and engagement to maintain retention."
+  },
+  {
+    "employee_id": 71,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (1.0/1.0)",
+      "Strong performance evaluation (0.83)",
+      "Stable tenure (4 years)"
+    ],
+    "recommended_actions": [
+      "Consider salary review/increase given high performance but low salary",
+      "Monitor workload (219 monthly hours is high)",
+      "Discuss career growth opportunities given no recent promotion"
+    ],
+    "summary": "Employee shows low churn risk (10%) with high satisfaction and strong performance. Main concerns are low salary relative to performance and high working hours. While currently stable, addressing compensation and workload could help maintain engagement."
+  },
+  {
+    "employee_id": 72,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.86)",
+      "Good performance evaluation (0.66)",
+      "Stable tenure of 4 years",
+      "Low predicted churn probability (4%)"
+    ],
+    "recommended_actions": [
+      "Consider salary review/increase given low salary despite good performance",
+      "Monitor workload as monthly hours (204) are above average",
+      "Follow up on filed complaint to ensure resolution",
+      "Discuss career growth opportunities given no recent promotion"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and good performance, indicating low churn risk. However, attention needed to address low salary, high workload, and complaint resolution to maintain retention. Career development opportunities should be explored."
+  },
+  {
+    "employee_id": 73,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.13)",
+      "High workload (282 hours/month)",
+      "High number of projects (7)",
+      "Low salary bracket",
+      "No recent promotion despite 5 years tenure"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Conduct stay interview to address satisfaction issues",
+      "Consider promotion opportunity assessment",
+      "Develop clear career progression plan"
+    ],
+    "summary": "Employee shows multiple critical risk factors including burnout indicators (high hours, many projects), compensation concerns, and very low satisfaction. The combination of low pay, high workload, and lack of career progression despite 5-year tenure suggests immediate intervention is needed to prevent departure."
+  },
+  {
+    "employee_id": 74,
+    "status": "LOW RISK",
+    "reasons": [
+      "High performance rating (0.99/1.0)",
+      "Above average satisfaction (0.70/1.0)",
+      "No complaints filed",
+      "Healthy workload with 4 projects"
+    ],
+    "recommended_actions": [
+      "Consider for promotion given strong performance",
+      "Review compensation as currently in low salary bracket",
+      "Maintain engagement with challenging projects",
+      "Schedule career development discussion"
+    ],
+    "summary": "Employee shows strong performance and engagement with moderate satisfaction, though compensation may need review. Current churn risk is low, but salary level and lack of recent promotion suggest proactive career development steps would be beneficial."
+  },
+  {
+    "employee_id": 75,
+    "status": "LOW RISK",
+    "reasons": [
+      "Long tenure of 8 years indicates stability",
+      "Good performance evaluation score of 0.72",
+      "Manageable workload with 4 projects",
+      "Medium salary level",
+      "No recent complaints filed"
+    ],
+    "recommended_actions": [
+      "Consider for promotion opportunity given tenure and good performance",
+      "Schedule career development discussion",
+      "Monitor satisfaction level which is moderate at 0.54",
+      "Review compensation package at next evaluation"
+    ],
+    "summary": "Employee shows strong stability indicators with 8 years tenure and good performance. While not at immediate risk, moderate satisfaction levels suggest need for career growth discussions and compensation review to maintain engagement."
+  },
+  {
+    "employee_id": 76,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.40)",
+      "Has filed a complaint",
+      "Moderate workload (185 hrs/month)",
+      "Relatively short tenure (2 years)",
+      "No recent promotion"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1:1 meeting to discuss job satisfaction",
+      "Investigate and address the filed complaint",
+      "Consider for promotion or role advancement",
+      "Review workload distribution",
+      "Develop clear career progression plan"
+    ],
+    "summary": "While the employee shows moderate performance (0.66 evaluation), several risk factors are present including low satisfaction, an unresolved complaint, and lack of career progression. Immediate intervention is recommended to address these concerns and improve engagement."
+  },
+  {
+    "employee_id": 77,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.84)",
+      "Healthy work hours (142/month)",
+      "No complaints filed",
+      "Moderate project load (4 projects)",
+      "Medium salary bracket"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given 3-year tenure",
+      "Schedule development discussion to maintain engagement",
+      "Review workload distribution to maintain satisfaction",
+      "Plan for skill development opportunities"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction, manageable workload, and no red flags. While currently stable, focus should be on career growth and maintaining engagement given their 3-year tenure and moderate evaluation score (0.46)."
+  },
+  {
+    "employee_id": 78,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high monthly hours (271) indicating potential burnout",
+      "Low salary despite 5 years tenure",
+      "High performance (93% evaluation) without promotion",
+      "Above average workload (4 projects)"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Consider promotion based on strong performance",
+      "Reduce workload/hours to prevent burnout",
+      "Schedule retention interview with manager",
+      "Develop career progression plan"
+    ],
+    "summary": "High-performing employee showing clear burnout risk with excessive working hours, low compensation relative to tenure and performance, and lack of career progression. Immediate intervention required as model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 79,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.078)",
+      "Overworked - high monthly hours (265)",
+      "High number of projects (7)",
+      "Low salary bracket",
+      "No recent promotion",
+      "High performance evaluation (0.89) without recognition"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Consider immediate promotion or role adjustment",
+      "Conduct stay interview to address satisfaction issues",
+      "Implement work-life balance measures"
+    ],
+    "summary": "Employee shows critical retention risk with multiple red flags: severe work overload, low compensation despite high performance, and extremely low satisfaction. The combination of high workload (7 projects, 265 monthly hours) with low salary and no promotion despite strong evaluations indicates urgent intervention is needed."
+  },
+  {
+    "employee_id": 80,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.085)",
+      "Long working hours (265 hrs/month)",
+      "High workload (6 projects)",
+      "Low salary bracket",
+      "No recent promotion",
+      "Above average performance (0.75 evaluation)"
+    ],
+    "recommended_actions": [
+      "Immediate workload reduction - reassign projects",
+      "Schedule compensation review",
+      "Conduct stay interview to address satisfaction issues",
+      "Consider promotion opportunity",
+      "Implement work-life balance measures",
+      "Review overtime policies"
+    ],
+    "summary": "Employee shows critical retention risk with burnout indicators: excessive working hours, high project load, and very low satisfaction despite good performance. Combined with low compensation and lack of career progression, immediate intervention is required to prevent departure."
+  },
+  {
+    "employee_id": 81,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.42/1.0)",
+      "Zero recent performance evaluation",
+      "Below average working hours (147/month)",
+      "Low project engagement (only 2 projects)",
+      "No recent promotion",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Schedule immediate performance review and feedback session",
+      "Conduct stay interview to understand satisfaction issues",
+      "Consider for promotion or role enhancement",
+      "Evaluate project allocation and workload",
+      "Review compensation package competitiveness"
+    ],
+    "summary": "Employee #81 shows multiple high-risk indicators, particularly very low satisfaction and lack of recent evaluation. The combination of medium salary, low project engagement, and no career progression suggests a disengaged employee likely seeking opportunities elsewhere. Immediate intervention is required."
+  },
+  {
+    "employee_id": 82,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High workload (221 avg monthly hours)",
+      "Low salary despite 5 years tenure",
+      "High number of projects (5)",
+      "No recent promotion",
+      "Perfect evaluation score but no advancement"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload to sustainable level",
+      "Consider for promotion opportunity",
+      "Schedule career development discussion",
+      "Evaluate project distribution"
+    ],
+    "summary": "High-performing employee showing clear burnout risk factors. Working excessive hours on multiple projects with perfect evaluation scores, yet remains in low salary bracket after 5 years without promotion. Immediate intervention required to prevent departure."
+  },
+  {
+    "employee_id": 83,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.42)",
+      "Below average performance evaluation (0.52)",
+      "Low project load (2 projects)",
+      "Moderate working hours with medium salary",
+      "No recent promotion in 3 years"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1-on-1 meeting to discuss job satisfaction",
+      "Review compensation package and career growth opportunities",
+      "Consider assigning more challenging projects",
+      "Develop clear promotion pathway",
+      "Provide additional training and development opportunities"
+    ],
+    "summary": "Employee #83 shows multiple high-risk indicators, particularly low job satisfaction and stagnant career growth. With 3 years tenure and no promotion, combined with below-average evaluations, immediate intervention is needed. The 100% churn probability suggests this employee is actively looking to leave."
+  },
+  {
+    "employee_id": 84,
+    "status": "LOW RISK",
+    "reasons": [
+      "High salary bracket",
+      "Good performance evaluation (0.80)",
+      "Reasonable tenure (4 years)",
+      "No complaints filed",
+      "Above average satisfaction (0.61)"
+    ],
+    "recommended_actions": [
+      "Monitor high monthly hours (211) to prevent burnout",
+      "Consider for promotion given strong performance",
+      "Maintain engagement through new project opportunities",
+      "Schedule regular check-ins to maintain satisfaction"
+    ],
+    "summary": "Employee shows strong indicators of stability with good performance, decent satisfaction, and competitive compensation. Main watch point is high working hours. Overall retention outlook is positive with proper workload management."
+  },
+  {
+    "employee_id": 85,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (99%)",
+      "Low satisfaction score (0.49)",
+      "Average working hours with medium salary",
+      "No recent promotion in 3 years",
+      "High performance evaluation (0.80) without advancement"
+    ],
+    "recommended_actions": [
+      "Immediate one-on-one meeting with manager to discuss career growth",
+      "Consider promotion or salary adjustment given strong performance",
+      "Develop clear career progression plan",
+      "Review workload and project assignments",
+      "Conduct stay interview to understand pain points"
+    ],
+    "summary": "Employee #85 shows critical flight risk with 99% churn probability. Key concerns include stagnant career growth despite good performance, moderate satisfaction, and lack of recent advancement. Immediate intervention required focusing on career development and recognition."
+  },
+  {
+    "employee_id": 86,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.42/1.0)",
+      "Low salary bracket",
+      "Below average performance evaluation (0.59/1.0)",
+      "No recent promotion",
+      "Limited project engagement (only 2 projects)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Conduct salary review and adjustment assessment",
+      "Create development plan with opportunities for additional projects",
+      "Consider for promotion track if performance improves",
+      "Provide mentorship and skill development opportunities"
+    ],
+    "summary": "Employee #86 shows multiple high-risk indicators including low satisfaction, low compensation, and limited growth. The combination of low salary, moderate performance, and no recent promotion suggests career stagnation. Immediate intervention is required as the model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 87,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.42)",
+      "Low salary bracket",
+      "Low last evaluation score (0.0)",
+      "No recent promotion",
+      "Below average project load (2 projects)"
+    ],
+    "recommended_actions": [
+      "Immediate compensation review",
+      "Schedule performance evaluation",
+      "Career development discussion",
+      "Consider for promotion or role expansion",
+      "Assess workload distribution and engagement opportunities"
+    ],
+    "summary": "Employee #87 shows multiple high-risk indicators including low satisfaction, low compensation, and lack of career progression. The combination of low evaluation scores and limited project involvement suggests potential disengagement. Immediate intervention is required with focus on career development and compensation adjustment."
+  },
+  {
+    "employee_id": 88,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high monthly hours (235) indicating potential burnout",
+      "High number of projects (5) suggesting heavy workload",
+      "Medium salary despite high performance (86% evaluation)",
+      "No recent promotion despite 5 years tenure",
+      "High satisfaction (80%) may be declining due to workload"
+    ],
+    "recommended_actions": [
+      "Immediate workload review and redistribution",
+      "Schedule compensation review given performance metrics",
+      "Consider for promotion or career advancement",
+      "Conduct stay interview to discuss career goals",
+      "Evaluate project allocation and team resources"
+    ],
+    "summary": "High-performing employee showing clear burnout risk due to excessive workload (235 hours/month, 5 projects) without corresponding career advancement. Despite good satisfaction and evaluation scores, the combination of high workload and stagnant career growth creates critical retention risk requiring immediate intervention."
+  },
+  {
+    "employee_id": 89,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High workload (236 hours/month)",
+      "Low salary despite good performance",
+      "High performance rating (0.96) but no promotion",
+      "Multiple projects (4) with moderate satisfaction (0.65)"
+    ],
+    "recommended_actions": [
+      "Review compensation - consider salary increase given performance",
+      "Evaluate workload distribution and potential burnout risk",
+      "Discuss career progression opportunities",
+      "Consider for promotion in next cycle"
+    ],
+    "summary": "Employee shows signs of potential burnout and undercompensation despite strong performance. Working long hours with low salary and no recent promotion indicates retention risk. Immediate attention needed on compensation and career growth to prevent turnover."
+  },
+  {
+    "employee_id": 90,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.36)",
+      "Average performance evaluation (0.50)",
+      "Medium salary with moderate workload",
+      "No recent promotion in 3 years",
+      "Low project engagement (only 2 projects)"
+    ],
+    "recommended_actions": [
+      "Schedule immediate 1-on-1 meeting to discuss job satisfaction",
+      "Create development plan with clear promotion path",
+      "Consider assigning more challenging projects",
+      "Review compensation package",
+      "Provide additional training/growth opportunities"
+    ],
+    "summary": "Employee shows clear signs of disengagement with very low satisfaction, average performance, and stagnant career growth over 3 years. The combination of medium salary, moderate workload, and lack of promotion suggests they may feel undervalued. Immediate intervention is needed as predictive model shows extremely high churn probability."
+  },
+  {
+    "employee_id": 91,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very low satisfaction score (0.40)",
+      "Below average performance evaluation (0.52)",
+      "Low project load (2 projects)",
+      "No recent promotion",
+      "Medium salary level"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Review workload and consider assigning challenging projects",
+      "Evaluate for promotion opportunities",
+      "Conduct compensation review",
+      "Create development plan to improve performance metrics"
+    ],
+    "summary": "Employee #91 shows critical churn risk with 100% probability. Key concerns are low satisfaction, mediocre performance, and career stagnation. Immediate intervention required focusing on engagement, career development, and workload adjustment."
+  },
+  {
+    "employee_id": 92,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.85)",
+      "Healthy work hours (168/month)",
+      "No complaints filed",
+      "Average evaluation score (0.59)",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Consider for promotion in next cycle given 2-year tenure",
+      "Maintain engagement through project assignments",
+      "Schedule development discussion to explore growth opportunities",
+      "Review workload balance across 5 projects"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and healthy work patterns. While managing multiple projects, they demonstrate stability in their medium salary band with no red flags. Main focus should be on maintaining engagement and planning career growth opportunities."
+  },
+  {
+    "employee_id": 93,
+    "status": "LOW RISK",
+    "reasons": [
+      "Very high satisfaction score (0.93)",
+      "Strong performance evaluation (0.77)",
+      "High salary bracket",
+      "Healthy work hours (152/month)",
+      "No complaints filed"
+    ],
+    "recommended_actions": [
+      "Continue regular check-ins to maintain high satisfaction",
+      "Consider for leadership roles given experience and performance",
+      "Discuss career growth opportunities given 3-year tenure",
+      "Monitor workload across 5 projects for sustainability"
+    ],
+    "summary": "Employee shows strong engagement with high satisfaction and performance scores, competitive compensation, and manageable workload. Current churn probability is very low at 1%. Key focus should be on maintaining positive trajectory and exploring growth opportunities."
+  },
+  {
+    "employee_id": 94,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low satisfaction score (0.42)",
+      "Below average performance evaluation (0.49)",
+      "Low project load (2 projects)",
+      "Moderate working hours (136/month)",
+      "No recent promotion",
+      "Medium salary band"
+    ],
+    "recommended_actions": [
+      "Schedule immediate manager check-in to discuss job satisfaction",
+      "Review workload and consider assigning challenging projects",
+      "Develop clear career progression plan",
+      "Evaluate compensation package relative to market",
+      "Provide additional training/development opportunities"
+    ],
+    "summary": "Employee shows multiple risk factors including low satisfaction, mediocre performance, and career stagnation. The combination of no recent promotion, medium salary, and low project engagement suggests potential underutilization and career frustration. Immediate intervention is required as model predicts 100% probability of departure."
+  },
+  {
+    "employee_id": 95,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Very high churn probability (93%)",
+      "Low satisfaction score (0.32)",
+      "High workload (218 hours/month)",
+      "Low salary bracket",
+      "High number of projects (6)",
+      "No recent promotion",
+      "Below average performance evaluation (0.49)"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce project load to maximum 4 projects",
+      "Schedule career development discussion",
+      "Consider for promotion evaluation",
+      "Implement workload reduction plan",
+      "Conduct stay interview to address satisfaction issues"
+    ],
+    "summary": "Employee #95 shows critical churn risk indicators with 93% probability of leaving. Key issues include work overload (218 monthly hours), low satisfaction, multiple projects, and low compensation. Immediate intervention required focusing on workload reduction, compensation adjustment, and career growth opportunities."
+  },
+  {
+    "employee_id": 96,
+    "status": "HIGH RISK",
+    "reasons": [
+      "Low salary bracket",
+      "Low satisfaction score (0.51)",
+      "Zero recent performance evaluation",
+      "No recent promotion",
+      "Relatively low project load"
+    ],
+    "recommended_actions": [
+      "Conduct immediate performance review",
+      "Evaluate for salary adjustment",
+      "Schedule career development discussion",
+      "Consider additional project assignments",
+      "Assess workload satisfaction"
+    ],
+    "summary": "Employee shows multiple high-risk indicators including low compensation, lack of recent evaluation, and moderate satisfaction levels. The combination of low salary and stagnant career growth suggests immediate intervention is needed to prevent departure. Model predicts 100% probability of leaving."
+  },
+  {
+    "employee_id": 97,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High workload (228 hours monthly)",
+      "Low salary despite 5 years tenure",
+      "High number of projects (5)",
+      "No recent promotion",
+      "Very high performance evaluation (0.97)"
+    ],
+    "recommended_actions": [
+      "Immediate salary review and adjustment",
+      "Reduce workload by redistributing projects",
+      "Schedule promotion discussion",
+      "Conduct stay interview to understand concerns",
+      "Consider performance-based bonus or incentive"
+    ],
+    "summary": "High-performing employee showing clear burnout risk with excessive workload, low compensation, and lack of career progression despite 5 years tenure and excellent evaluations. Immediate intervention required to prevent departure."
+  },
+  {
+    "employee_id": 98,
+    "status": "HIGH RISK",
+    "reasons": [
+      "High workload (232 hours monthly)",
+      "Low salary bracket",
+      "Relatively short tenure (2 years)",
+      "No recent promotion",
+      "Moderate satisfaction level (0.61)"
+    ],
+    "recommended_actions": [
+      "Review compensation package and consider salary adjustment",
+      "Assess workload distribution and reduce overtime",
+      "Discuss career development opportunities",
+      "Schedule regular check-ins with manager",
+      "Consider for promotion evaluation"
+    ],
+    "summary": "While current churn probability appears low, several risk factors are present including excessive working hours, low compensation, and lack of career progression. Employee shows moderate satisfaction but may be overworked. Immediate intervention recommended to prevent future retention issues."
+  },
+  {
+    "employee_id": 99,
+    "status": "LOW RISK",
+    "reasons": [
+      "High satisfaction score (0.79)",
+      "Strong performance evaluation (0.84)",
+      "Healthy work hours (170/month)",
+      "No complaints filed",
+      "Manageable project load (4 projects)"
+    ],
+    "recommended_actions": [
+      "Consider salary increase given strong performance metrics",
+      "Discuss career growth opportunities",
+      "Plan for promotion evaluation in next cycle",
+      "Maintain regular check-ins to sustain engagement"
+    ],
+    "summary": "Employee shows strong performance and engagement indicators with high satisfaction and evaluation scores. Main concern is low salary level despite good performance. While currently low risk, addressing compensation and career growth would help retain this valuable team member."
+  }
+]

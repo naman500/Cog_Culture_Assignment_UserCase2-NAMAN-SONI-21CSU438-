@@ -1,0 +1,1602 @@
+[
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 135,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.513137587,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.450392266,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 264,
+            "filed_complaint": 0.0,
+            "last_evaluation": 1.0,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.964981904,
+            "tenure": 6.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 222,
+            "filed_complaint": 0.0,
+            "last_evaluation": 1.0,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.544216022,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 282,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.855789905,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.131400558,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 131,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.562257447,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.413785104,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 254,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.878704842,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.781524393,
+            "tenure": 6.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 136,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.454795048,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.421196639,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.02,
+        "features": {
+            "avg_monthly_hrs": 258,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.957025932,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.511320058,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 197,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.580963328,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 256,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.531330123,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.873169768,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 293,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.963883809,
+            "n_projects": 7,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.072629697,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 158,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.889477486,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.875236018,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.08,
+        "features": {
+            "avg_monthly_hrs": 218,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.608815557,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.145840368,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.03,
+        "features": {
+            "avg_monthly_hrs": 172,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.665039657,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.424219918,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.81,
+        "features": {
+            "avg_monthly_hrs": 133,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.792562782,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.44465291,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.04,
+        "features": {
+            "avg_monthly_hrs": 259,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.793773692,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.183204328,
+            "tenure": 8.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.93,
+        "features": {
+            "avg_monthly_hrs": 119,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.0,
+            "tenure": 0.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.27,
+        "features": {
+            "avg_monthly_hrs": 152,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.686851011,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.702027522,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 291,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.819278733,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.101794092,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 147,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.486408484,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.354270918,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 232,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.911595425,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.805367697,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 288,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.826638639,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.099450287,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 285,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.758953861,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.110780731,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 131,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.441817141,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.430121547,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 158,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.547158589,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.358773399,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 201,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.972457777,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.703679014,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.96,
+        "features": {
+            "avg_monthly_hrs": 136,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.378957178,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.451731493,
+            "tenure": 3.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.02,
+        "features": {
+            "avg_monthly_hrs": 274,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.970475211,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.592943848,
+            "tenure": 2.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 256,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.828534175,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.169443829,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 232,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.826552625,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.72750734,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.05,
+        "features": {
+            "avg_monthly_hrs": 240,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.883383264,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.265099323,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 178,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.624324838,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.561910067,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 271,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.842446416,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.090444307,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 127,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.501277707,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.376393018,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 304,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.825579731,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.095705167,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 163,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.897150102,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.815269079,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 186,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.436698964,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.547187079,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 168,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.87353538,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.926044622,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 224,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.910270844,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.615978244,
+            "tenure": 10.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 153,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.482259577,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.4053088,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 146,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.604621907,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.34721763,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 247,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.538780296,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.961290975,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 239,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.824230133,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.776066076,
+            "tenure": 6.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 148,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.36026943,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 259,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.898386006,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.702845967,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 157,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.595851735,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.390135069,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 214,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.826276635,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.80050605,
+            "tenure": 2.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 140,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.461144322,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.431784414,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 114,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.400471099,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.325482525,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 271,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.779178007,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.120983279,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 199,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.952492617,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.652888576,
+            "tenure": 3.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.05,
+        "features": {
+            "avg_monthly_hrs": 210,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.52434287,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.195964482,
+            "tenure": 3.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 135,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.535158421,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.392185648,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.06,
+        "features": {
+            "avg_monthly_hrs": 186,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.754264876,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.39036527,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 242,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.849010134,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.788298437,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 255,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.861909523,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.135852686,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 221,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.805052599,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.93299756,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 132,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.786599989,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.761923926,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.17,
+        "features": {
+            "avg_monthly_hrs": 249,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.71978795,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.524478348,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 222,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.483783503,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.759256875,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 130,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.342856794,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.03,
+        "features": {
+            "avg_monthly_hrs": 149,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.658168205,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.957336509,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.78,
+        "features": {
+            "avg_monthly_hrs": 164,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.749481297,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.589632205,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 299,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.918782232,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.072152325,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.3,
+        "features": {
+            "avg_monthly_hrs": 216,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.677519208,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.753102123,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.02,
+        "features": {
+            "avg_monthly_hrs": 171,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.556330148,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.625657438,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 137,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.586982732,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.361775859,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.1,
+        "features": {
+            "avg_monthly_hrs": 164,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.750763388,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.859321554,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.98,
+        "features": {
+            "avg_monthly_hrs": 147,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.612443964,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.489455675,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 135,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.524953145,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.397608806,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.02,
+        "features": {
+            "avg_monthly_hrs": 182,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.605378165,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.422627922,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.1,
+        "features": {
+            "avg_monthly_hrs": 219,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.828665138,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 1.0,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.04,
+        "features": {
+            "avg_monthly_hrs": 204,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.663865482,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.856959323,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 282,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.861068934,
+            "n_projects": 7,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.128225876,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 262,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.985851182,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.700728002,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 178,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.722407397,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.539352845,
+            "tenure": 8.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 185,
+            "filed_complaint": 1.0,
+            "last_evaluation": 0.65923952,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.401693454,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 142,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.457064557,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.838367889,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 271,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.93056959,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.775064867,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 265,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.893464788,
+            "n_projects": 7,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.078329722,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 265,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.75179569,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.085150152,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 147,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.418182596,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 221,
+            "filed_complaint": 0.0,
+            "last_evaluation": 1.0,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.753696832,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 136,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.517539541,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.423278538,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 211,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.796978273,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.613480797,
+            "tenure": 4.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.99,
+        "features": {
+            "avg_monthly_hrs": 138,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.802477174,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.492286586,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 160,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.591196589,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.418741312,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 158,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.423326061,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 235,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.861645537,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.795667281,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 236,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.9570362,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.649800716,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 155,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.501253514,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.356825424,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 138,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.520360503,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.403928103,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 168,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.595603653,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.852982958,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.01,
+        "features": {
+            "avg_monthly_hrs": 152,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.772817977,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.926355509,
+            "tenure": 3.0,
+            "salary_high": true,
+            "salary_low": false,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 136,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.48626875,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.421146549,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": false,
+            "salary_medium": true
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 0.93,
+        "features": {
+            "avg_monthly_hrs": 218,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.489715789,
+            "n_projects": 6,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.325602829,
+            "tenure": 4.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 161,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.0,
+            "n_projects": 2,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.507688672,
+            "tenure": 3.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Left",
+        "churn_probability": 1.0,
+        "features": {
+            "avg_monthly_hrs": 228,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.968111857,
+            "n_projects": 5,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.75621029,
+            "tenure": 5.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 232,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.630421028,
+            "n_projects": 3,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.614550129,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    },
+    {
+        "prediction": "Employed",
+        "churn_probability": 0.0,
+        "features": {
+            "avg_monthly_hrs": 170,
+            "filed_complaint": 0.0,
+            "last_evaluation": 0.841849754,
+            "n_projects": 4,
+            "recently_promoted": 0.0,
+            "satisfaction": 0.791875712,
+            "tenure": 2.0,
+            "salary_high": false,
+            "salary_low": true,
+            "salary_medium": false
+        }
+    }
+]
